@@ -1,5 +1,5 @@
 # The Story Line is random......very random
-# And may contain a Harry Potter spoilerm just a small one, but if you haven't read the book that came before the Deathly hallows then don't play this game or watched the film fot that matter 
+# And may contain a Harry Potter spoiler just a small one, but if you haven't read the book that came before the Deathly hallows then don't play this game or watched the film fot that matter 
 # It's good enough                                #no it isnt -jack    # No....it really is -Jake
 import time     #Imports time from the libary
 import random   #Imports Random from the libary 
